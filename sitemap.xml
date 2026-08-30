@@ -4,13 +4,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/guide/</loc>
@@ -119,6 +119,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/nozawa-akiba/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/nozawa-akiba/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-akishima-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-akishima-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-akishima-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-akishima-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-akishima-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-akishima-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/akiu-grand-hotel/</loc>
@@ -1456,13 +1468,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-funabashi-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-funabashi-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-funabashi-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-funabashi-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-funabashi-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-funabashi-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gero-funsenchi/</loc>
@@ -1729,28 +1741,388 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ageo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ageo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ageo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ageo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ageo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ageo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-aomori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-aomori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-aomori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-aomori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-aomori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-aomori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-inage/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-inage/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-inage/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-inage/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-inage/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-inage/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-fukui/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-fukui/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-fukui/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-fukui/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-fukui/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-fukui/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-furukawa/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-furukawa/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-furukawa/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-furukawa/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-furukawa/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-furukawa/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hachinohe/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hachinohe/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hachinohe/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hachinohe/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hachinohe/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hachinohe/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hanyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hanyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hanyu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hanyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hanyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hanyu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-higashiosaka/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-higashiosaka/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-higashiosaka/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-higashiosaka/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-higashiosaka/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-higashiosaka/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hikone/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hikone/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hikone/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hikone/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hikone/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hikone/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hirakata/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hirakata/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hirakata/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hirakata/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-hirakata/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-hirakata/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ibaraki-osaka/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ibaraki-osaka/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ibaraki-osaka/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ibaraki-osaka/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-ibaraki-osaka/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-ibaraki-osaka/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-nonoichi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-nonoichi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-nonoichi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-nonoichi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-nonoichi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-nonoichi/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-kashiwa/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-kashiwa/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-kashiwa/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-kashiwa/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-gokurakuyu-kashiwa/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-gokurakuyu-kashiwa/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-koriyama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-koriyama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-koriyama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-koriyama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-koriyama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-koriyama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-makio/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-makio/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-makio/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-makio/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-makio/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-makio/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-matsuzaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-matsuzaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-matsuzaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-matsuzaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-matsuzaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-matsuzaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-meike/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-meike/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-meike/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-meike/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-meike/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-meike/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mishima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mishima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mishima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mishima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mishima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mishima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mito/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mito/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mito/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mito/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-mito/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-mito/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-miyazaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-miyazaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-miyazaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-miyazaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-miyazaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-miyazaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-natori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-natori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-natori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-natori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-natori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-natori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-kawaguchi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-kawaguchi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-kawaguchi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-kawaguchi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-kawaguchi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-kawaguchi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-sakai-senboku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-sakai-senboku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-sakai-senboku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-sakai-senboku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-sakai-senboku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-sakai-senboku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tagajo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tagajo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tagajo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tagajo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tagajo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tagajo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tama-center/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tama-center/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tama-center/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tama-center/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tama-center/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tama-center/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tomiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tomiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tomiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tomiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tomiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tomiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-toyohashi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-toyohashi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-toyohashi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-toyohashi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-toyohashi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-toyohashi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-tsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-tsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-utsunomiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-utsunomiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-utsunomiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-utsunomiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-utsunomiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-utsunomiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-wako/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-wako/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-wako/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-wako/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-wako/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-wako/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-serigaya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-serigaya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-serigaya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-serigaya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-serigaya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-serigaya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-yozan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-yozan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-yozan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-yozan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-yozan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-yozan/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/shima-gomusou/</loc>
@@ -2473,6 +2845,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-odo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-odo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-odo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-odo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-odo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-odo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/shima-hinatami-ashiyu/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/shima-hinatami-ashiyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/shima-hinatami-ashiyu/" />
@@ -2632,13 +3016,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-hitachinaka-kirari/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-hitachinaka-kirari/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-hitachinaka-kirari/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-hitachinaka-kirari/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-hitachinaka-kirari/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-hitachinaka-kirari/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/hiroshima-akebonoso-hiwa/</loc>
@@ -3457,6 +3841,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-hyakukannon/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-hyakukannon/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-hyakukannon/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-hyakukannon/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-hyakukannon/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-hyakukannon/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-hyakunennoyu/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-hyakunennoyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ureshino-hyakunennoyu/" />
@@ -3520,13 +3916,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-ichihara-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-ichihara-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-ichihara-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-ichihara-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-ichihara-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-ichihara-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/akiu-ichitaro-no-yu/</loc>
@@ -3856,13 +4252,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/yubara-terunoyu/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/yubara-terunoyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/yubara-terunoyu/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/yubara-terunoyu/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/yubara-terunoyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/yubara-terunoyu/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/hakone-izumi/</loc>
@@ -4861,6 +5257,30 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yumoto/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yumoto/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yumoto/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yumoto/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kasukabe-yumoto/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kasukabe-yumoto/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kamisuwa-katakurakan/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kamisuwa-katakurakan/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kamisuwa-katakurakan/" />
@@ -5015,6 +5435,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/naruko-kawatabi-kyodo/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/naruko-kawatabi-kyodo/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-takaosan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-takaosan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-takaosan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-takaosan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-takaosan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-takaosan/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-keirin/</loc>
@@ -5231,6 +5663,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-kitamatogahama/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/beppu-kitamatogahama/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kitamoto-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kitamoto-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kitamoto-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kitamoto-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kitamoto-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kitamoto-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ikaho-bandou-no-yu/</loc>
@@ -5545,6 +5989,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yunohana-koshigaya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yunohana-koshigaya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yunohana-koshigaya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yunohana-koshigaya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yunohana-koshigaya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yunohana-koshigaya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-kotobuki/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-kotobuki/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/beppu-kotobuki/" />
@@ -5713,6 +6169,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kumagaya-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kumagaya-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kumagaya-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kumagaya-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-kumagaya-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-kumagaya-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/nanki-nagi/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/nanki-nagi/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/nanki-nagi/" />
@@ -5747,6 +6215,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-kunichiten/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/beppu-kunichiten/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-kunitachi-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-kunitachi-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-kunitachi-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-kunitachi-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tokyo-kunitachi-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tokyo-kunitachi-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gero-kur-garden/</loc>
@@ -6100,13 +6580,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-makuhari-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-makuhari-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-makuhari-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-makuhari-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-makuhari-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-makuhari-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/fukuoka-mamushi-no-yu/</loc>
@@ -6616,13 +7096,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/minoh-spa-garden/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/minoh-spa-garden/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/minoh-spa-garden/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/minoh-spa-garden/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/minoh-spa-garden/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/minoh-spa-garden/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/awara-minoya/</loc>
@@ -6767,6 +7247,30 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/shimosuwa-miyanoyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/shimosuwa-miyanoyu/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-miyazawako-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-miyazawako-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-miyazawako-kirari/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-miyazawako-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-miyazawako-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-miyazawako-kirari/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-mizonokuchi-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-mizonokuchi-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-mizonokuchi-kirari/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-mizonokuchi-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-mizonokuchi-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-mizonokuchi-kirari/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-mochigahama/</loc>
@@ -8032,109 +8536,613 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/higashiyama-ooedo-higashiyama/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/higashiyama-ooedo-higashiyama/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/higashiyama-ooedo-higashiyama/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/higashiyama-ooedo-higashiyama/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/higashiyama-ooedo-higashiyama/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/higashiyama-ooedo-higashiyama/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-aizu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-aizu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-aizu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-aizu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-aizu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-aizu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-amakusa-kameya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-amakusa-kameya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-amakusa-kameya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-amakusa-kameya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-amakusa-kameya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-amakusa-kameya/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/awara-ooedo-awara/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/awara-ooedo-awara/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/awara-ooedo-awara/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/awara-ooedo-awara/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/awara-ooedo-awara/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/awara-ooedo-awara/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-awazu-grand/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-awazu-grand/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-awazu-grand/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-awazu-grand/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-awazu-grand/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-awazu-grand/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-beppu-seifu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-beppu-seifu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-beppu-seifu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-beppu-seifu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-beppu-seifu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-beppu-seifu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-dogo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-dogo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-dogo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-dogo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-dogo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-dogo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-bekkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-bekkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-bekkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-bekkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-bekkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-bekkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-gyoen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-gyoen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-gyoen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-gyoen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-gyoen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-gyoen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-leoma-no-mori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-leoma-no-mori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-leoma-no-mori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-leoma-no-mori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-leoma-no-mori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-leoma-no-mori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-ranpu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-ranpu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-ranpu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-ranpu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-ranpu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-ranpu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-shinko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-shinko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-shinko/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-shinko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-shinko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-shinko/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kaike-ooedo/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kaike-ooedo/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kaike-ooedo/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/kaike-ooedo/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kaike-ooedo/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kaike-ooedo/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kimitsu-no-mori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kimitsu-no-mori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kimitsu-no-mori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kimitsu-no-mori/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kimitsu-no-mori/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kimitsu-no-mori/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kouunkaku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kouunkaku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kouunkaku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kouunkaku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kouunkaku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kouunkaku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-masuya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-masuya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-masuya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-masuya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-masuya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-masuya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-miyoshiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-miyoshiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-miyoshiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-miyoshiya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-miyoshiya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-miyoshiya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagayama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagayama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagayama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagayama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagayama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagayama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nanki-kushimoto/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nanki-kushimoto/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nanki-kushimoto/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nanki-kushimoto/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nanki-kushimoto/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nanki-kushimoto/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/atami-ooedo-atami/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/atami-ooedo-atami/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/atami-ooedo-atami/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/atami-ooedo-atami/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/atami-ooedo-atami/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/atami-ooedo-atami/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-enakyo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-enakyo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-enakyo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-enakyo/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-enakyo/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-enakyo/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-honkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-honkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-honkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-honkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-gero-honkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-gero-honkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-fugetsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-fugetsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-fugetsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-fugetsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-fugetsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-fugetsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-sokan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-sokan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-sokan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-sokan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-hotel-sokan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-hotel-sokan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ikaho/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ikaho/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ikaho/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ikaho/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ikaho/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ikaho/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ise-shima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ise-shima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ise-shima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ise-shima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ise-shima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ise-shima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ito-new-okabe/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ito-new-okabe/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ito-new-okabe/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ito-new-okabe/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-ito-new-okabe/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-ito-new-okabe/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/hanamaki-ooedo-premium/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/hanamaki-ooedo-premium/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/hanamaki-ooedo-premium/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/hanamaki-ooedo-premium/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/hanamaki-ooedo-premium/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/hanamaki-ooedo-premium/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kaga-maruya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kaga-maruya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kaga-maruya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kaga-maruya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kaga-maruya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kaga-maruya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinosaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinosaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinosaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinosaki/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinosaki/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinosaki/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-kanko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-kanko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-kanko/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-kanko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-kinugawa-kanko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-kinugawa-kanko/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-matsunoi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-matsunoi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-matsunoi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-matsunoi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-matsunoi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-matsunoi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-minoo-kanko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-minoo-kanko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-minoo-kanko/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-minoo-kanko/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-minoo-kanko/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-minoo-kanko/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagasaki-seifu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagasaki-seifu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagasaki-seifu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagasaki-seifu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-nagasaki-seifu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-nagasaki-seifu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saikaibashi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saikaibashi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saikaibashi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saikaibashi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saikaibashi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saikaibashi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saiki-bekkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saiki-bekkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saiki-bekkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saiki-bekkan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-saiki-bekkan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-saiki-bekkan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-sendai-sakunami/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-sendai-sakunami/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-sendai-sakunami/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-sendai-sakunami/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-sendai-sakunami/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-sendai-sakunami/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shima-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shima-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shima-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shima-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shima-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shima-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shiobisou/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shiobisou/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shiobisou/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shiobisou/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shiobisou/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shiobisou/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-gyoen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-gyoen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-gyoen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-gyoen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-gyoen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-gyoen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shirahama-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shirahama-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-toba-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-toba-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-toba-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-toba-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-toba-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-toba-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-grand/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-grand/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-grand/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-grand/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-grand/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-grand/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yoshinoya-iryokuen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yoshinoya-iryokuen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yoshinoya-iryokuen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yoshinoya-iryokuen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yoshinoya-iryokuen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yoshinoya-iryokuen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shinshu-kakeyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shinshu-kakeyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shinshu-kakeyu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shinshu-kakeyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-shinshu-kakeyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-shinshu-kakeyu/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-ooedo-ureshinokan/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-ooedo-ureshinokan/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ureshino-ooedo-ureshinokan/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/ureshino-ooedo-ureshinokan/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-ooedo-ureshinokan/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ureshino-ooedo-ureshinokan/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamanaka-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamanaka-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamashiro-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamashiro-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamashiro-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamashiro-saichoraku/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-yamashiro-saichoraku/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-yamashiro-saichoraku/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/shiobara-new-shiobara/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/shiobara-new-shiobara/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/shiobara-new-shiobara/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/shiobara-new-shiobara/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/shiobara-new-shiobara/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/shiobara-new-shiobara/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/awara-seiunkaku/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/awara-seiunkaku/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/awara-seiunkaku/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/awara-seiunkaku/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/awara-seiunkaku/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/awara-seiunkaku/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/unazuki-ooedo-unazuki/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/unazuki-ooedo-unazuki/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/unazuki-ooedo-unazuki/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/unazuki-ooedo-unazuki/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/unazuki-ooedo-unazuki/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/unazuki-ooedo-unazuki/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/nyuto-ookama/</loc>
@@ -8195,6 +9203,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/akiu-rantei/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/akiu-rantei/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-otaki-yuyukan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-otaki-yuyukan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-otaki-yuyukan/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-otaki-yuyukan/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-otaki-yuyukan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-otaki-yuyukan/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kusatsu-otakinoyu/</loc>
@@ -8377,6 +9397,90 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-kanda/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-kanda/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-kanda/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-kanda/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-kanda/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-kanda/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-yokohama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-yokohama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-yokohama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-yokohama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-yokohama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-yokohama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-hamamatsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-hamamatsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-hamamatsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-hamamatsu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-hamamatsu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-hamamatsu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-nagoya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-nagoya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-nagoya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-nagoya/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-nagoya/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-nagoya/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-fuchu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-fuchu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-fuchu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-fuchu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-fuchu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-fuchu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-koganei/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-koganei/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-koganei/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-koganei/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-koganei/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-koganei/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-tsurumi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-tsurumi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-tsurumi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-tsurumi/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gokurakuyu-rakuspa-tsurumi/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gokurakuyu-rakuspa-tsurumi/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/taketa-ramune/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/taketa-ramune/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/taketa-ramune/" />
@@ -8495,6 +9599,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kochi-royal-tosa/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kochi-royal-tosa/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yakushi-no-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yakushi-no-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yakushi-no-yu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yakushi-no-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-yakushi-no-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-yakushi-no-yu/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-hondaya/</loc>
@@ -8831,6 +9947,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gero-sachi-no-yu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gero-sachi-no-yu/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-sagamihara-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-sagamihara-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-sagamihara-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-sagamihara-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-sagamihara-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-sagamihara-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gero-sagi-ashiyu/</loc>
@@ -9241,6 +10369,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-sawarabino-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-sawarabino-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-sawarabino-yu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-sawarabino-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-sawarabino-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-sawarabino-yu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibusuki-sayuri/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibusuki-sayuri/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibusuki-sayuri/" />
@@ -9251,6 +10391,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibusuki-sayuri/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibusuki-sayuri/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-matsuri-no-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-matsuri-no-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-matsuri-no-yu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-matsuri-no-yu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-matsuri-no-yu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-matsuri-no-yu/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/awara-seifuso/</loc>
@@ -10024,13 +11176,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-shisui-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-shisui-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-shisui-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-shisui-yuranosato/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-shisui-yuranosato/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-shisui-yuranosato/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ureshino-shoen/</loc>
@@ -10331,6 +11483,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/shimosuwa-sugeno/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/shimosuwa-sugeno/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-utanoyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-utanoyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-utanoyu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-utanoyu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-utanoyu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-utanoyu/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/misasa-suhah/</loc>
@@ -10753,6 +11917,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tamagawa-onsen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tamagawa-onsen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tamagawa-onsen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tamagawa-onsen/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tamagawa-onsen/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tamagawa-onsen/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/tamagawa-tamagawa/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tamagawa-tamagawa/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tamagawa-tamagawa/" />
@@ -10907,6 +12083,174 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/beppu-tanoyu/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/beppu-tanoyu/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-akiu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-akiu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-akiu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-akiu/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-akiu/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-akiu/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-aso/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-aso/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-aso/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-aso/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-aso/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-aso/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-atami/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-atami/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-atami/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-atami/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-atami/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-atami/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-gero/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-gero/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-gero/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-gero/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-gero/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-gero/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-hakone/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-hakone/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-hakone/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-hakone/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-hakone/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-hakone/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kawaji/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kawaji/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kawaji/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kawaji/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kawaji/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kawaji/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kisoji/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kisoji/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kisoji/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kisoji/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kisoji/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kisoji/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-minamishima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-minamishima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-minamishima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-minamishima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-minamishima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-minamishima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nachikatsuura/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nachikatsuura/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nachikatsuura/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nachikatsuura/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nachikatsuura/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nachikatsuura/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nasushiobara/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nasushiobara/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nasushiobara/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nasushiobara/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-nasushiobara/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-nasushiobara/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kirifuri/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kirifuri/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kirifuri/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kirifuri/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-kirifuri/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-kirifuri/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shima/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shima/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shima/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shirahama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shirahama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shirahama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shirahama/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-shirahama/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-shirahama/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-wakura/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-wakura/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-wakura/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-wakura/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ooedo-taoya-wakura/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ooedo-taoya-wakura/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/jozankei-taro-ashiyu/</loc>
@@ -11101,6 +12445,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/tochigi-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tochigi-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tochigi-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/tochigi-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/tochigi-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/tochigi-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/aichi-hanamatsuri/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/aichi-hanamatsuri/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/aichi-hanamatsuri/" />
@@ -11195,6 +12551,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibusuki-tokkou/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibusuki-tokkou/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tokorozawa-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tokorozawa-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tokorozawa-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tokorozawa-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/saitama-tokorozawa-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/saitama-tokorozawa-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/shimane-ramune-ginsen/</loc>
@@ -11488,13 +12856,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-tsukuba-kirari/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-tsukuba-kirari/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-tsukuba-kirari/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-tsukuba-kirari/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-tsukuba-kirari/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-tsukuba-kirari/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-tsukuba-no-yu/</loc>
@@ -12328,13 +13696,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kaga-yamashitaya/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kaga-yamashitaya/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kaga-yamashitaya/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/kaga-yamashitaya/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kaga-yamashitaya/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kaga-yamashitaya/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/daigo-yamizo-hotel/</loc>
@@ -12445,6 +13813,18 @@
 <lastmod>2026-08-30</lastmod>
 </url>
 <url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-aoba-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-aoba-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-aoba-kirari/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-aoba-kirari/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-aoba-kirari/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-aoba-kirari/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/nozawa-yokoochi/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/nozawa-yokoochi/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/nozawa-yokoochi/" />
@@ -12455,6 +13835,18 @@
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/nozawa-yokoochi/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/nozawa-yokoochi/" />
 <lastmod>2026-08-30</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-yokosuka-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-yokosuka-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-yokosuka-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-yokosuka-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/kanagawa-yokosuka-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/kanagawa-yokosuka-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/kaga-yoshidaya-sannokaku/</loc>
@@ -12724,13 +14116,13 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/unzen-toyokan/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/unzen-toyokan/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/unzen-toyokan/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/unzen-toyokan/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/unzen-toyokan/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/unzen-toyokan/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/yubara-hanayashiki/</loc>
@@ -13168,37 +14560,49 @@
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-hitachi/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-hitachi/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-hitachi/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-hitachi/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-hitachi/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-hitachi/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/ja/onsen/gunma-isesaki-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gunma-isesaki-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gunma-isesaki-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
+</url>
+<url>
+<loc>https://tyra0119.github.io/onsen_guide/en/onsen/gunma-isesaki-yuranosato/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/gunma-isesaki-yuranosato/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/gunma-isesaki-yuranosato/" />
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-yuranosato-matsudo/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-yuranosato-matsudo/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-yuranosato-matsudo/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/chiba-yuranosato-matsudo/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/chiba-yuranosato-matsudo/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/chiba-yuranosato-matsudo/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-tsuchiura/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-tsuchiura/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-tsuchiura/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-tsuchiura/</loc>
 <xhtml:link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/onsen/ibaraki-yuranosato-tsuchiura/" />
 <xhtml:link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/onsen/ibaraki-yuranosato-tsuchiura/" />
-<lastmod>2026-08-30</lastmod>
+<lastmod>2026-08-31</lastmod>
 </url>
 <url>
 <loc>https://tyra0119.github.io/onsen_guide/ja/onsen/aso-yuraku/</loc>
