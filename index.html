@@ -1,0 +1,210 @@
+<!doctype html>
+<!--
+  Language routing for the site root.
+
+  Next.js middleware did this job, but middleware needs a Node runtime and
+  this site is served as plain files by httpd. Doing it here instead of in
+  Apache rewrite rules has two real advantages:
+
+    - `navigator.languages` is the browser's own preference list, already
+      parsed and ordered. Matching Accept-Language with a regex in httpd
+      means reimplementing q-value ordering, badly.
+    - It needs no server configuration at all, so the site can move between
+      hosts without carrying rewrite rules along with it.
+
+  The cost is that it needs JavaScript, so the <noscript> path below is a
+  real language picker rather than an apology — which is also what a visitor
+  gets if the redirect is slow, and what a crawler sees.
+
+  Every internal path here is relative. This file is copied verbatim by the
+  build, so `basePath` never rewrites it; a rooted "/en/" would break the
+  moment the site sits in a subdirectory, which it does.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Onsen Guide Japan · 温泉ガイド・ジャパン</title>
+    <meta
+      name="description"
+      content="Find a Japanese hot spring that will actually let you in — tattoo policy, cash-only counters, towel rules and the last bus of the day."
+    />
+
+    <!-- Crawlers reach every language version from here, and `x-default`
+         marks this page as the language-neutral entry point. -->
+    <link rel="alternate" hreflang="x-default" href="https://tyra.jp/onsen/en/" />
+    <link rel="alternate" hreflang="en" href="https://tyra.jp/onsen/en/" />
+    <link rel="alternate" hreflang="ja" href="https://tyra.jp/onsen/ja/" />
+    <link rel="alternate" hreflang="ko" href="https://tyra.jp/onsen/ko/" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://tyra.jp/onsen/zh-Hans/" />
+    <link rel="alternate" hreflang="zh-Hant" href="https://tyra.jp/onsen/zh-Hant/" />
+    <link rel="alternate" hreflang="zh-Hant-HK" href="https://tyra.jp/onsen/zh-Hant-HK/" />
+    <link rel="alternate" hreflang="es" href="https://tyra.jp/onsen/es/" />
+    <link rel="alternate" hreflang="fr" href="https://tyra.jp/onsen/fr/" />
+    <link rel="alternate" hreflang="th" href="https://tyra.jp/onsen/th/" />
+    <link rel="alternate" hreflang="vi" href="https://tyra.jp/onsen/vi/" />
+    <link rel="alternate" hreflang="id" href="https://tyra.jp/onsen/id/" />
+
+    <style>
+      :root {
+        color-scheme: light;
+      }
+      body {
+        margin: 0;
+        min-height: 100dvh;
+        display: grid;
+        place-items: center;
+        padding: 2rem 1.25rem;
+        background: #faf7f2;
+        color: #1c1917;
+        font-family:
+          "Segoe UI", ui-sans-serif, system-ui, -apple-system, "Helvetica Neue",
+          Arial, sans-serif;
+      }
+      main {
+        width: 100%;
+        max-width: 34rem;
+        text-align: center;
+      }
+      .mark {
+        font-size: 2.5rem;
+        color: #9a3b28;
+        line-height: 1;
+      }
+      h1 {
+        margin: 0.75rem 0 0;
+        font-size: 1.25rem;
+        font-weight: 600;
+        letter-spacing: -0.01em;
+      }
+      p {
+        margin: 0.5rem 0 0;
+        color: #57534e;
+        font-size: 0.9375rem;
+      }
+      ul {
+        list-style: none;
+        margin: 1.75rem 0 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.5rem;
+      }
+      a {
+        display: block;
+        padding: 0.5rem 0.9rem;
+        border: 1px solid #e7e0d6;
+        border-radius: 999px;
+        background: #fff;
+        color: #1c1917;
+        text-decoration: none;
+        font-size: 0.875rem;
+      }
+      a:hover,
+      a:focus-visible {
+        border-color: rgb(154 59 40 / 0.4);
+        color: #9a3b28;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <div class="mark" aria-hidden="true">♨</div>
+      <h1>Onsen Guide Japan</h1>
+      <p>Choose your language · 言語を選んでください</p>
+
+      <!-- Rendered for everyone. The script below replaces the page before
+           most visitors read it; anyone the script cannot serve — no JS, a
+           slow load, a crawler — gets a working picker instead of a blank. -->
+      <ul id="languages">
+        <li><a href="en/" lang="en">English</a></li>
+        <li><a href="ja/" lang="ja">日本語</a></li>
+        <li><a href="ko/" lang="ko">한국어</a></li>
+        <li><a href="zh-Hans/" lang="zh-Hans">简体中文</a></li>
+        <li><a href="zh-Hant/" lang="zh-Hant">繁體中文</a></li>
+        <li><a href="zh-Hant-HK/" lang="zh-Hant-HK">繁體中文（香港）</a></li>
+        <li><a href="es/" lang="es">Español</a></li>
+        <li><a href="fr/" lang="fr">Français</a></li>
+        <li><a href="th/" lang="th">ไทย</a></li>
+        <li><a href="vi/" lang="vi">Tiếng Việt</a></li>
+        <li><a href="id/" lang="id">Bahasa Indonesia</a></li>
+      </ul>
+    </main>
+
+    <script>
+      (function () {
+        var LOCALES = [
+          "ja",
+          "en",
+          "ko",
+          "zh-Hans",
+          "zh-Hant",
+          "zh-Hant-HK",
+          "es",
+          "fr",
+          "th",
+          "vi",
+          "id",
+        ];
+
+        function match(tag) {
+          var lower = String(tag).toLowerCase();
+
+          for (var i = 0; i < LOCALES.length; i++) {
+            if (LOCALES[i].toLowerCase() === lower) return LOCALES[i];
+          }
+
+          // Chinese is the one language where the region tag decides which
+          // script to show, so it cannot fall through to a bare primary tag.
+          if (lower.indexOf("zh") === 0) {
+            if (lower.indexOf("hk") > -1 || lower.indexOf("mo") > -1) {
+              return "zh-Hant-HK";
+            }
+            if (lower.indexOf("tw") > -1 || lower.indexOf("hant") > -1) {
+              return "zh-Hant";
+            }
+            return "zh-Hans";
+          }
+
+          var primary = lower.split("-")[0];
+          // "in" is the obsolete tag for Indonesian; some clients still send it.
+          if (primary === "in") return "id";
+
+          for (var j = 0; j < LOCALES.length; j++) {
+            if (LOCALES[j] === primary) return LOCALES[j];
+          }
+          return null;
+        }
+
+        function chosen() {
+          // A language the visitor picked by hand outranks anything their
+          // browser claims — they have already told us the browser was wrong.
+          try {
+            var saved = localStorage.getItem("onsen.locale");
+            if (saved && LOCALES.indexOf(saved) > -1) return saved;
+          } catch (error) {
+            // Private browsing and blocked site data both throw here.
+          }
+
+          var wanted = navigator.languages || [navigator.language];
+          for (var i = 0; i < wanted.length; i++) {
+            var hit = match(wanted[i]);
+            if (hit) return hit;
+          }
+          return "en";
+        }
+
+        // Relative, not rooted at "/": the site lives under /onsen/, and a
+        // rooted path would send everyone to the host's document root
+        // instead. Keeping it relative also means this file needs no edit if
+        // the site is ever moved to a different directory.
+        //
+        // replace(), not assign(): the visitor never chose this page, so it
+        // has no business sitting in their history behind the back button.
+        location.replace(chosen() + "/" + location.search + location.hash);
+      })();
+    </script>
+  </body>
+</html>
