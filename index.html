@@ -31,19 +31,18 @@
     />
 
     <!-- Crawlers reach every language version from here, and `x-default`
-         marks this page as the language-neutral entry point. -->
+         marks this page as the language-neutral entry point.
+
+         The three blocks marked `locales:` below are rewritten by
+         scripts/build/finalize.mjs to whatever NEXT_PUBLIC_LOCALES ships, so
+         this page never advertises a language the build did not write. What is
+         checked in is the full set, which is what you want when opening this
+         file directly. -->
+    <!-- locales:hreflang -->
     <link rel="alternate" hreflang="x-default" href="https://tyra0119.github.io/onsen_guide/en/" />
-    <link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/" />
     <link rel="alternate" hreflang="ja" href="https://tyra0119.github.io/onsen_guide/ja/" />
-    <link rel="alternate" hreflang="ko" href="https://tyra0119.github.io/onsen_guide/ko/" />
-    <link rel="alternate" hreflang="zh-Hans" href="https://tyra0119.github.io/onsen_guide/zh-Hans/" />
-    <link rel="alternate" hreflang="zh-Hant" href="https://tyra0119.github.io/onsen_guide/zh-Hant/" />
-    <link rel="alternate" hreflang="zh-Hant-HK" href="https://tyra0119.github.io/onsen_guide/zh-Hant-HK/" />
-    <link rel="alternate" hreflang="es" href="https://tyra0119.github.io/onsen_guide/es/" />
-    <link rel="alternate" hreflang="fr" href="https://tyra0119.github.io/onsen_guide/fr/" />
-    <link rel="alternate" hreflang="th" href="https://tyra0119.github.io/onsen_guide/th/" />
-    <link rel="alternate" hreflang="vi" href="https://tyra0119.github.io/onsen_guide/vi/" />
-    <link rel="alternate" hreflang="id" href="https://tyra0119.github.io/onsen_guide/id/" />
+    <link rel="alternate" hreflang="en" href="https://tyra0119.github.io/onsen_guide/en/" />
+    <!-- /locales:hreflang -->
 
     <style>
       :root {
@@ -119,35 +118,21 @@
            most visitors read it; anyone the script cannot serve — no JS, a
            slow load, a crawler — gets a working picker instead of a blank. -->
       <ul id="languages">
-        <li><a href="en/" lang="en">English</a></li>
+        <!-- locales:picker -->
         <li><a href="ja/" lang="ja">日本語</a></li>
-        <li><a href="ko/" lang="ko">한국어</a></li>
-        <li><a href="zh-Hans/" lang="zh-Hans">简体中文</a></li>
-        <li><a href="zh-Hant/" lang="zh-Hant">繁體中文</a></li>
-        <li><a href="zh-Hant-HK/" lang="zh-Hant-HK">繁體中文（香港）</a></li>
-        <li><a href="es/" lang="es">Español</a></li>
-        <li><a href="fr/" lang="fr">Français</a></li>
-        <li><a href="th/" lang="th">ไทย</a></li>
-        <li><a href="vi/" lang="vi">Tiếng Việt</a></li>
-        <li><a href="id/" lang="id">Bahasa Indonesia</a></li>
+        <li><a href="en/" lang="en">English</a></li>
+        <!-- /locales:picker -->
       </ul>
     </main>
 
     <script>
       (function () {
+        /* locales:list */
         var LOCALES = [
           "ja",
           "en",
-          "ko",
-          "zh-Hans",
-          "zh-Hant",
-          "zh-Hant-HK",
-          "es",
-          "fr",
-          "th",
-          "vi",
-          "id",
         ];
+        /* /locales:list */
 
         function match(tag) {
           var lower = String(tag).toLowerCase();
@@ -193,7 +178,9 @@
             var hit = match(wanted[i]);
             if (hit) return hit;
           }
-          return "en";
+          // LOCALES[0] rather than a literal: on a build that does not ship
+          // English, falling back to it would send everyone to a 404.
+          return LOCALES.indexOf("en") > -1 ? "en" : LOCALES[0];
         }
 
         // Relative, not rooted at "/": the site lives under /onsen/, and a
