@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
-Disallow: /onsen/_next/
+Disallow: /onsen_guide/_next/
 
-Sitemap: https://tyra.jp/onsen/sitemap.xml
+Sitemap: https://tyra0119.github.io/onsen_guide/sitemap.xml
